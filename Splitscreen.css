@@ -1,0 +1,12 @@
+.left-side, .right-side{
+    height: 50vh;
+    width: 100%;
+}
+
+.left-side{
+    background-color: rgb(245, 234, 234);
+}
+
+.right-side{
+    background-color: rgb(243, 250, 253);
+}

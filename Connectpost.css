@@ -1,0 +1,28 @@
+.connect{
+    background-color: rgb(13, 155, 173);
+    width: 100%;
+  
+}
+
+.connect-h4{
+    color: white;
+    text-align: center;
+    
+}
+
+.connect-p{
+    color: white;
+    text-align: center;
+    
+}
+
+.connect-b{
+    color: white;
+    background-color: rgb(9, 9, 65);
+    text-align: center;
+    display: flex;
+    margin: 0 auto;
+  
+
+    
+}
