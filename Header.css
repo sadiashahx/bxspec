@@ -1,0 +1,23 @@
+.nav-text{
+    font-size: 20px;
+    color: rgb(10, 10, 70);
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    transition: all .5s;
+    font-family: monospace;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.nav-text:hover{
+    background-color: rgb(147, 192, 243);
+}
+
+.nav-img{
+   width: 130px;
+   height: 70px;
+   margin-left: 20px;
+}
